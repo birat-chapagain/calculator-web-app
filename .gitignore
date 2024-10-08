@@ -1,0 +1,28 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Misc
+*.tmp
+*.bak
+*.cache
